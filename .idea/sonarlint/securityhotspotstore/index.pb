@@ -9,3 +9,5 @@ O
 contracts/firmware-updates.clar,7/1/71e471a34272b04284a06ee62d24805c1e44e117
 N
 tests/firmware-updates.test.ts,9/f/9f48f715272ed695e554ff4192396d918a5b7d9e
+M
+contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
